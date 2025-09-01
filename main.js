@@ -262,3 +262,4 @@ console.log('%c🎓 Academic Writing Services', 'color: #2563eb; font-size: 24px
 console.log('%cProfessional academic writing and development services', 'color: #6b7280; font-size: 14px;');
 
 console.log('%cContact us via WhatsApp or Facebook for your projects!', 'color: #16a34a; font-size: 12px;');
+
