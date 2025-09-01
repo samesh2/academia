@@ -56,7 +56,7 @@ window.addEventListener('scroll', function() {
 // WhatsApp Contact Function
 function openWhatsApp() {
     // Replace with your actual WhatsApp number
-    const phoneNumber = '1234567890'; // Replace with your WhatsApp number
+    const phoneNumber = '+254736583970'; // Replace with your WhatsApp number
     const message = encodeURIComponent('Hello! I am interested in your academic writing services. Could you please provide more information?');
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${message}`;
     window.open(whatsappURL, '_blank');
@@ -260,4 +260,5 @@ window.addEventListener('scroll', debouncedScrollHandler);
 // Console welcome message
 console.log('%c🎓 Academic Writing Services', 'color: #2563eb; font-size: 24px; font-weight: bold;');
 console.log('%cProfessional academic writing and development services', 'color: #6b7280; font-size: 14px;');
+
 console.log('%cContact us via WhatsApp or Facebook for your projects!', 'color: #16a34a; font-size: 12px;');
